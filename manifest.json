@@ -1,0 +1,10 @@
+{
+   "name": "depsy",
+   "description": "Shows dependensies on your web-page",
+   "manifest_version": 3,
+   "version": "0.0.1",
+   "devtools_page": "devtools.html",
+   "permissions": [
+      "tabs"
+   ]
+}

@@ -1,0 +1,1 @@
+chrome.devtools.panels.create("Depsy", "", "panel.html", panel => { });
